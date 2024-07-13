@@ -1,0 +1,10 @@
+# Passo a passo do projeto
+
+Instalando o pandas e o scikit-learn
+
+# Passo 0 Entender o desafio da empresa;
+# Passo 1 Importar base de dados;
+# Passo 2 Preparar a base de dados para a inteligencia artificial;
+# Passo 3 Criar um modelo de IA -> Nota de crédito: (Ruim, Média ou Boa);
+# Passo 4 Escolher melhor o modelo;
+# Passo 5 Usar o nosso modelo para fazer novas previsões;
