@@ -1,4 +1,4 @@
-#Análise de Score de Cliente em um Banco
+Análise de Score de Cliente em um Banco
 
 Descrição do Projeto
 Na aula de Python IA, vamos realizar uma análise de score de clientes de um banco. Imagine que você trabalha em um banco e tem uma base de dados de 100.000 clientes. Nosso objetivo é verificar o score (pontuação) desses clientes para determinar se são bons clientes ou não.
